@@ -1,0 +1,3 @@
+admin:password
+pablo:letmein
+smithy:password
